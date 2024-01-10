@@ -1,0 +1,7 @@
+Отличается порядок merge - в дз сначала boots затем boots and buttons(hat)
+init
+heat added
+boots
+README added
+dots
+fix readme
